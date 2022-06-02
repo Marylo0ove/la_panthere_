@@ -308,7 +308,8 @@ a:hover {
 }
 
 .navbar-brand img[src$=svg] {
-    min-width: 100px;
+    width: 217px;
+    height: 40px;
 }
 
 .nav-center .navbar-brand img {
@@ -772,7 +773,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #CD4B0E;
 }
 
 .tc-white {
@@ -780,7 +781,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #CD4B0E;
     color: #424242!important;
 }
 
@@ -798,7 +799,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #CD4B0E!important;
 }
 
 .ltc-atomic-tangerine:hover {
