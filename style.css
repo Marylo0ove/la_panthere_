@@ -652,7 +652,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #FFFFFF!important;
+    color: #424242;
+}
+
+.reseau{
+    color: #FFFFFF;
 }
 
 .container {
